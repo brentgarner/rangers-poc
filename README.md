@@ -5,3 +5,5 @@ it should contain:
 
 `DB_PATH` -- path to the sqlite file eg "/secure/codes.db"
 
+
+To start, in `server` run `npm install && node server.js`
